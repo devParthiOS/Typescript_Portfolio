@@ -40,46 +40,20 @@ const data: IData = {
           name: 'AllianceTek',
           position: 'Intern',
           description:
-            "Transitioned to live project 'CarePool,' a active cab application, with numerous additional features, including background services, Zeendrive insurance SDK integration, Apple Push Notifications, and more, to enhance the user experience.",
-          duration: '16-06-2023  to  01-08-2023 (1.5 months)',
+            `Transitioned to live project 'CarePool,' a active cab application, with numerous additional features, including background services, Zeendrive insurance SDK integration, Apple Push Notifications, and more, to enhance the user experience.
+            '16-06-2023  to  01-08-2023 (1.5 months)'
+            
+            I've mastered SwiftUI, creating three distinct apps with intricate custom UIs and robust, organized codebases.
+            02-05-2023  to  15-06-2023 (1.5 months)
+            
+            Learned Swift and created 'Cook Fiesta,' a Swift-based iOS recipe app with Firebase, Cocoa Touch classes, API integration, data parsing, and UI components expertise.
+            21-01-2023  to  01-05-2023 (3 months)`,
+          duration: '6 months',
           year: {
             start: 2023,
             end: 2023,
           },
-        },
-        {
-          name: 'AllianceTek',
-          position: 'Intern',
-          description:
-            "I've mastered SwiftUI, creating three distinct apps with intricate custom UIs and robust, organized codebases.",
-          duration: '02-05-2023  to  15-06-2023 (1.5 months)',
-          year: {
-            start: 2023,
-            end: 2023,
-          },
-        },
-        {
-          name: 'AllianceTek',
-          position: 'Intern',
-          description:
-            "Learned Swift and created 'Cook Fiesta,' a Swift-based iOS recipe app with Firebase, Cocoa Touch classes, API integration, data parsing, and UI components expertise.",
-          duration: '21-01-2023  to  01-05-2023 (3 months)',
-          year: {
-            start: 2023,
-            end: 2023,
-          },
-        },
-        // {
-        //   name: 'NG Forest',
-        //   position: 'Freelancer',
-        //   description:
-        //     "Working on client's projects. I am just exploring and learning new technologies in this years.",
-        //   duration: 'Just learning',
-        //   year: {
-        //     start: 2020,
-        //     end: 2022,
-        //   },
-        // },
+        }
       ],
     },
 
@@ -157,7 +131,7 @@ const data: IData = {
       {
         platform: 'LinkedIn',
         text: '@devParthiOS',
-        link: 'https://www.linkedin.com/in/devParthiOS/',
+        link: 'https://www.linkedin.com/in/devparthios',
       },
       {
         platform: 'WhatsApp',
@@ -167,7 +141,7 @@ const data: IData = {
       {
         platform: 'Discord',
         text: '@devParthiOS',
-        link: 'https://discord.com/channels/@devParthiOS',
+        link: 'https://discord.com/users/1152583497614110760',
       },
       {
         platform: 'Resume',
