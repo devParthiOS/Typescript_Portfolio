@@ -17,8 +17,8 @@ const data: IData = {
           courseTag: 'BE',
           course: 'Information Technlogy',
           year: {
-            start: 2019,
-            end: 2023,
+            start: "2019",
+            end: "2023",
           },
         }
       ],
@@ -27,31 +27,46 @@ const data: IData = {
     workExperience: {
       jobs: [
         {
-          name: 'AllianceTek',
+          name: 'AllianceTek (Presently 2 Months)',
           position: 'Jr. iOS Developer',
           description:"Actively working for development of 'CarePool' while leading a camera application project named 'ObservedApp' featuring live streaming, recording, and intricate hardware integration, including switches, bridges, encoders, routers, all under the guidance of my Team Lead.",
-          duration: '01-08-2023 to current (presnetly 2 months)',
+          duration: '',
           year: {
-            start: 2023,
-            end: 0,
+            start: "01/08/2023",
+            end: "Ongoing",
           },
         },
         {
-          name: 'AllianceTek',
+          name: 'AllianceTek (6 Months)',
           position: 'Intern',
           description:
-            `Transitioned to live project 'CarePool,' a active cab application, with numerous additional features, including background services, Zeendrive insurance SDK integration, Apple Push Notifications, and more, to enhance the user experience.
-            '16-06-2023  to  01-08-2023 (1.5 months)'
-            
-            I've mastered SwiftUI, creating three distinct apps with intricate custom UIs and robust, organized codebases.
-            02-05-2023  to  15-06-2023 (1.5 months)
-            
-            Learned Swift and created 'Cook Fiesta,' a Swift-based iOS recipe app with Firebase, Cocoa Touch classes, API integration, data parsing, and UI components expertise.
-            21-01-2023  to  01-05-2023 (3 months)`,
+            `Transitioned to live project 'CarePool,' a active cab application, with numerous additional features, including background services, Zeendrive insurance SDK integration, Apple Push Notifications, and more, to enhance the user experience.`,
           duration: '6 months',
           year: {
-            start: 2023,
-            end: 2023,
+            start: "16/06/2023",
+            end: "01/08/2023",
+          },
+        },
+        {
+          name: '',
+          position: '',
+          description:
+            `I've mastered SwiftUI, creating three distinct apps with intricate custom UIs and robust, organized codebases.`,
+          duration: '',
+          year: {
+            start: "02/05/2023",
+            end: "15/06/2023",
+          },
+        },
+        {
+          name: '',
+          position: '',
+          description:
+            `Learned Swift and created 'Cook Fiesta,' a Swift-based iOS recipe app with Firebase, Cocoa Touch classes, API integration, data parsing, and UI components expertise.`,
+          duration: '',
+          year: {
+            start: "21/01/2023",
+            end: "01/05/2023 ",
           },
         }
       ],
