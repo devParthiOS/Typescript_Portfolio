@@ -40,8 +40,8 @@ export const WorkExperience = ({
             <Text>{ele.description}</Text>
             <Text size='xs' mt={4} italic c='dimmed'>
               {ele.year.start}
-              {ele.year.end != 0 && ' - ' + ele.year.end}
-              {'  '}({ele.duration})
+              {ele.year.end && ' - ' + ele.year.end}
+              {'  '}
             </Text>
           </Timeline.Item>
         ))}
