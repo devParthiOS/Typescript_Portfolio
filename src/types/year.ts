@@ -1,4 +1,4 @@
 export interface IYear {
-  start: number;
-  end: number;
+  start: string;
+  end: string;
 }
