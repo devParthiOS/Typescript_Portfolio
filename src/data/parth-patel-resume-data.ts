@@ -161,7 +161,7 @@ const data: IData = {
       {
         platform: 'Resume',
         text: 'Parth Patel',
-        link: 'https://drive.google.com/file/d/14-WehpHn7QZApc2A4i-t32AfwqAUA5Iu/view?usp=drivesdk'
+        link: 'https://drive.google.com/file/d/14bwQA_gkcV862stFUkmnD6T4rfKiOMqD/view?usp=drivesdk'
       }
     ],
   },
