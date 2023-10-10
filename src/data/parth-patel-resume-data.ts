@@ -27,7 +27,7 @@ const data: IData = {
     workExperience: {
       jobs: [
         {
-          name: 'AllianceTek (Presently 2 Months)',
+          name: 'AllianceTek (Presently 3 Months)',
           position: 'Jr. iOS Developer',
           description:"Actively working for development of 'CarePool' while leading a camera application project named 'ObservedApp' featuring live streaming, recording, and intricate hardware integration, including switches, bridges, encoders, routers, all under the guidance of my Team Lead.",
           duration: '',
